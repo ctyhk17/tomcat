@@ -1,0 +1,1078 @@
+   14  service httpd restart
+   15  java -version
+   16  ps
+   17  ps -ef
+   18  ps -ef | grep httpd
+   19  ls
+   20  service httpd restart
+   21  find -name 'tomcat*'
+   22  cd /
+   23  find -name 'tomcat*'
+   24  find / -name apxs
+   25  yum install httpd-devel
+   26  ll
+   27  cd usr
+   28  cd local
+   29  ls
+   30  cd tomcat-connectors-1.2.42-src/
+   31  ls
+   32  cd /
+   33  /usr/local/tomcat-connectors-1.2.42-src/
+   34  cd /usr/local/tomcat-connectors-1.2.42-src/
+   35  ./configure --with-apxs=/usr/sbin/apxs
+   36  ls
+   37  ./conf --with-apxs=/usr/sbin/apxs
+   38  history
+   39  find / -name apxs
+   40  cd /
+   41  ls
+   42  tar -zxvf /usr/java/tomcat-connectors-1.2.40-src.tar.gz
+   43  tar -zxvf /usr/local/tomcat-connectors-1.2.40-src.tar.gz
+   44  tar -zxvf /usr/local/tomcat-connectors-1.2.42-src.tar.gz
+   45  cd /usr/loca
+   46  cd /usr/local
+   47  ls
+   48  tar -zxvf /usr/local/tomcat-connectors-1.2.42-src.tar.gz
+   49  ls
+   50  cd tomcat-connectors-1.2.42-src
+   51  ls
+   52  ./conf --with-apxs=/usr/sbin/apxs
+   53  /conf --with-apxs=/usr/sbin/apxs
+   54  ./conf --with-apxs=/usr/sbin/apxs
+   55  ls
+   56  ./configure --with-apxs=/usr/sbin/apxs
+   57  ;s
+   58  ls
+   59  cd native
+   60  ls
+   61  ./configure --with-apxs=/usr/sbin/apxs
+   62  make && make install
+   63  make
+   64  ls -al
+   65  cd /
+   66  make
+   67  ls
+   68  cd usr/local
+   69  ls
+   70  cd tomcat-connectors-1.2.42-src
+   71  ls
+   72  cd native
+   73  ls
+   74  ls -al
+   75  ./configure
+   76  rpm -qa | grep gcc
+   77  yum -y install gcc
+   78  ls
+   79  ./configure --with-apxs=/usr/sbin/apxs
+   80  make
+   81  make install
+   82  cd /
+   83  ls
+   84  ls
+   85  cd /
+   86  ls
+   87  cd etc
+   88  ls
+   89  cd httpd
+   90  ls
+   91  cd modules
+   92  ls
+   93  cd ..
+   94  ls
+   95  ls -al
+   96  cd /
+   97  ls
+   98  cd /etc/httpd
+   99  ls
+  100  cd conf
+  101  ls
+  102  mkdir include
+  103  ls
+  104  cd ../..
+  105  ls
+  106  cd httpd
+  107  ls
+  108  cd modules
+  109  ls
+  110  cp mod_jk.so mod_jk.so_bak
+  111  ls -al
+  112  ls
+  113  cp
+  114  cp --help
+  115  cp -a mod_jk.so mod_jk.so_bak
+  116  ls
+  117  mv --help
+  118  mv -b mod_jk.so_bak /etc/httpd/conf/include
+  119  ls
+  120  cd /etc/
+  121  cd httpd
+  122  ls
+  123  cd conf
+  124  ls
+  125  cd include
+  126  ls
+  127  rename --help
+  128  rename mod_jk.sh_bak mod_jk.so
+  129  ls
+  130  rename mod_jk.so_bak mod_jk.so
+  131  ls
+  132  rename mod_jk.so_bak mod_jk.so mod_jk.so_bak
+  133  ls
+  134  cd /
+  135  ls
+  136  cd usr
+  137  ls
+  138  cd local
+  139  ls
+  140  cd tomcat
+  141  ls
+  142  cd /
+  143  ls
+  144  cd data
+  145  ls
+  146  mkdir server
+  147  ls
+  148  ll
+  149  cd server
+  150  ls
+  151  ps -ef | grep mysql
+  152  ps -ef | grep maria
+  153  service mysql restart
+  154  service mysqld restart
+  155  ls
+  156  cd /etc/httpd
+  157  ls
+  158  cd conf
+  159  ls
+  160  cat httpd.conf
+  161  ls
+  162  cd workers.properties 
+  163  cat workers.properties 
+  164  ls
+  165  cd /
+  166  service httpd restart
+  167  ls
+  168  cd /etc/
+  169  ls
+  170  cd httpd
+  171  ls
+  172  cd logs
+  173  ls
+  174  service httpd restart
+  175  cd ..
+  176  ls
+  177  cd /
+  178  ls
+  179  cd data
+  180  ls
+  181  cd wasapp
+  182  ls
+  183  cd ..
+  184  cd /
+  185  ls
+  186  cd var
+  187  ls
+  188  cd log
+  189  ls
+  190  cd httpd
+  191  ls
+  192  cd /
+  193  ls
+  194  cd usr
+  195  ls
+  196  cd local
+  197  ls
+  198  cd etc/
+  199  ls
+  200  ll
+  201  cd ..
+  202  ls
+  203  service httpd restart
+  204  ;s
+  205  ls
+  206  cd /var/logs/httpd
+  207  cd /var/log/httpd
+  208  ls
+  209  tail -f access_log
+  210  tail -f error_log
+  211  ls
+  212  cd /
+  213  ls
+  214  cd home
+  215  ll
+  216  cd dangdang
+  217  ll
+  218  ls
+  219  cd logs
+  220  ll
+  221  tail -f catalina.out
+  222  history
+  223  find -name 'mysql*'
+  224  find / -name 'mysql*' -d
+  225  ls
+  226  cd /
+  227  ls
+  228  cd usr/bin
+  229  ls
+  230  cd mysql
+  231  ls
+  232  cd ..
+  233  cd usr/share/
+  234  ls
+  235  cd mysl
+  236  cd mysql
+  237  ls
+  238  cd mysql
+  239  ls
+  240  mysql -u root
+  241  mysql -u root@localhost
+  242  mysql -u root@localhost -p
+  243  mysql -u root -p
+  244  vi /etc/default/useradd
+  245  ./shutdown.sh
+  246  ./startup.sh
+  247  cd home
+  248  ls
+  249  cd logs
+  250  ls
+  251  tail -f catalina.out 
+  252  ./shutdown.sh
+  253  ll
+  254  cd ..
+  255  ll
+  256  ./shutdown.sh
+  257  ls
+  258  cd logs
+  259  ll
+  260  tail -f catalina.out 
+  261  ls
+  262  cd /
+  263  ls
+  264  cd home
+  265  ls
+  266  cd dangdang
+  267  ls
+  268  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/conf/ conf
+  269  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/logs/ logs
+  270  ln -s /data/wasapp/dangdang wasapp
+  271  ll
+  272  ls
+  273  ll
+  274  cd ..
+  275  ll
+  276  chown -R dangdang.dangdang dangdang/
+  277  ll
+  278  cd dangdang
+  279  ll
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd /
+  284  ls
+  285  cd boot
+  286  ls
+  287  cd ..
+  288  ls
+  289  cd etc/init.d
+  290  ls
+  291  ./httpd restart
+  292  service httpd restart
+  293  cd /
+  294  ls
+  295  cd etc/
+  296  ls
+  297  cd conf
+  298  cd httpd
+  299  ls
+  300  cd modules
+  301  ls
+  302  chcon -u system_u -r object_r -t ./mod_jk.so
+  303  chcon -u system_u -r object_r -t httpd_modules_t ./mod_jk.so
+  304  service httpd restart
+  305  chcon -u system_u -r object_r -t httpd_modules_t mod_jk.so
+  306  setenforce 0
+  307  service httpd restart
+  308  ls
+  309  ccd ..
+  310  cd ..
+  311  ls
+  312  cd /home
+  313  ls
+  314  cd dangdang
+  315  lks
+  316  ls
+  317  ./startup.sh
+  318  ll
+  319  chmod 755 startup.sh
+  320  chmod 755 shutdown.sh
+  321  ll
+  322  ./startup.sh
+  323  ll
+  324  ./startup.sh
+  325  cd ..
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd data
+  330  ls
+  331  cd server
+  332  ls
+  333  cd was
+  334  ls
+  335  cd apache-tomcat-7.0.37
+  336  ls
+  337  cd bin
+  338  ll
+  339  chmod 755 catalina.sh
+  340  chmod 755 configtest.sh
+  341  chmod 755 daemon.sh
+  342  chmod 755 digest.sh
+  343  chmod 755 setclasspath.sh
+  344  chmod 755 shutdown.sh
+  345  chmod 755 startup.sh
+  346  chmod 755 tool-wrapper.sh
+  347  chmod 755 version.sh
+  348  ll
+  349  cd /data/server/was
+  350  ll
+  351  cd apache-tomcat-7.0.37_instance/
+  352  ls
+  353  cd dangdang
+  354  ll
+  355  cd /home
+  356  ll
+  357  cd dangdang
+  358  ll
+  359  ./startup.sh
+  360  ps -ef | grep tomcat
+  361  ll
+  362  cd logs
+  363  ll
+  364  rm logs
+  365  ll
+  366  cd /home/
+  367  cd dangdang
+  368  ll
+  369  ls
+  370  ./shutdown.sh
+  371  ./startup.sh
+  372  ./shutdown.sh
+  373  ./startup.sh
+  374  ./shutdown.sh
+  375  ps -ef | grep tomcat
+  376  kill -9 45853 45885 45972
+  377  ps -ef | grep tomcat
+  378  ./shutdown.sh
+  379  ps -ef | grep tomcat
+  380  ./shutdown.sh
+  381  ps -ef | grep tomcat
+  382  kill -9 46101
+  383  ./startup.sh
+  384  usermod -d /home/dangdang dangdang
+  385  su dangdang
+  386  chown dangdang:dangdang dangdang
+  387  ll
+  388  cd dang
+  389  cd dangdang/
+  390  ls
+  391  ll
+  392  chown -R dangdang.dangdang dangdang
+  393  cd ..
+  394  chown -R dangdang.dangdang dangdang/
+  395  cd dangdang
+  396  ls
+  397  ll
+  398  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/conf/ conf
+  399  ll
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd dangdang
+  404  ls
+  405  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/logs/ logs
+  406  ll
+  407  ln -s /data/wasapp/dangdang wasapp
+  408  ll
+  409  rm wasapp
+  410  ll
+  411  su dangdang
+  412  cd /
+  413  ls
+  414  cd /etc/
+  415  ls
+  416  cd httpd/
+  417  ls
+  418  cd conf
+  419  ls
+  420  vi workers.properties 
+  421  ls
+  422  cd httpd.conf
+  423  vi httpd.conf
+  424  cd /data/
+  425  ls
+  426  vi wasapp/
+  427  ls
+  428  cd wasapp/
+  429  ls
+  430  cd dangdang/
+  431  ls
+  432  vi index.html
+  433  vi index.jsp
+  434  ps -ef | grep tomcat
+  435  logout
+  436  iptables -nL
+  437  service iptables stop
+  438  iptables -nL
+  439  ls
+  440  ll
+  441  cd /etc/httpd/
+  442  ls
+  443  cd conf
+  444  ls
+  445  ll
+  446  vi workers.properties 
+  447  ls
+  448  vi httpd.conf
+  449  ls
+  450  cd include/
+  451  ls
+  452  vi mod_jk.conf 
+  453  service httpd restart
+  454  vi /etc/my.cnf
+  455  ls
+  456  service mysqld restart
+  457  ls
+  458  useradd koalnet
+  459  passwd koalnet
+  460  ls
+  461  ll
+  462  cd server/
+  463  ls
+  464  cd /
+  465  cd /data/server/was
+  466  ls
+  467  cd apache-tomcat-7.0.3_instance
+  468  cd apache-tomcat-7.0.37_instance/
+  469  ls
+  470  cp -a dangdang/ koalnet
+  471  chown -R koalnet.koalnet koalnet/
+  472  mysql -u root -p
+  473  service httpd restart
+  474  ps -ef | grep http
+  475  service httpd start
+  476  cd 
+  477  c /
+  478  cd /
+  479  ls
+  480  service httpd stop
+  481  service httpd start
+  482  ls
+  483  cd /etc/network
+  484  ls
+  485  ifconfig
+  486  ls
+  487  cd /
+  488  ls
+  489  cd etc
+  490  ls
+  491  cd tomcat
+  492  cd /
+  493  cd /home/tomcate
+  494  ls
+  495  cd /home/dangdang
+  496  ls
+  497  cd logs
+  498  ls
+  499  tail -f catalina.out
+  500  mysql -u mysql -p
+  501  ls
+  502  mysql -u mysql -p
+  503  mysql -u root -p
+  504  mysql
+  505  service mysqld restart
+  506  tail -f catalina.out
+  507  ls
+  508  cd /
+  509  ls
+  510  cd httpd
+  511  cd /etc/httpd
+  512  ls
+  513  cd logs
+  514  ls
+  515  tail -f error_log
+  516  tail -f access_log
+  517  ls
+  518  cd /
+  519  sls
+  520  ls
+  521  cd data
+  522  ls
+  523  cd server
+  524  ls
+  525  cd was
+  526  ls
+  527  cd apache-tomcat-7.0.37_instance/
+  528  ls
+  529  cd dangdang/
+  530  ls
+  531  cd conf
+  532  ls
+  533  vi server.xml
+  534  ls
+  535  service httpd start
+  536  service httpd restart
+  537  chcon -u system_u -r object_r -t httpd_modules_t /etc/httpd/modules/mod_jk.so
+  538  setenforce 0
+  539  service httpd restart
+  540  su - dangdang
+  541  setup
+  542  ls
+  543  cd /
+  544  ls
+  545  history
+[root@ctyhk /]# history
+    1  ls
+    2  cd /
+    3  ls
+    4  rpm -qa httpd
+    5  cd /etc/init.d/
+    6  ls
+    7  service httpd restart
+    8  ipconfig
+    9  ifconfig
+   10  iptables -I INPUT -p tcp --dport80 -j ACCEPT
+   11  iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+   12  ./iptables save
+   13  ./iptables restart
+   14  service httpd restart
+   15  java -version
+   16  ps
+   17  ps -ef
+   18  ps -ef | grep httpd
+   19  ls
+   20  service httpd restart
+   21  find -name 'tomcat*'
+   22  cd /
+   23  find -name 'tomcat*'
+   24  find / -name apxs
+   25  yum install httpd-devel
+   26  ll
+   27  cd usr
+   28  cd local
+   29  ls
+   30  cd tomcat-connectors-1.2.42-src/
+   31  ls
+   32  cd /
+   33  /usr/local/tomcat-connectors-1.2.42-src/
+   34  cd /usr/local/tomcat-connectors-1.2.42-src/
+   35  ./configure --with-apxs=/usr/sbin/apxs
+   36  ls
+   37  ./conf --with-apxs=/usr/sbin/apxs
+   38  history
+   39  find / -name apxs
+   40  cd /
+   41  ls
+   42  tar -zxvf /usr/java/tomcat-connectors-1.2.40-src.tar.gz
+   43  tar -zxvf /usr/local/tomcat-connectors-1.2.40-src.tar.gz
+   44  tar -zxvf /usr/local/tomcat-connectors-1.2.42-src.tar.gz
+   45  cd /usr/loca
+   46  cd /usr/local
+   47  ls
+   48  tar -zxvf /usr/local/tomcat-connectors-1.2.42-src.tar.gz
+   49  ls
+   50  cd tomcat-connectors-1.2.42-src
+   51  ls
+   52  ./conf --with-apxs=/usr/sbin/apxs
+   53  /conf --with-apxs=/usr/sbin/apxs
+   54  ./conf --with-apxs=/usr/sbin/apxs
+   55  ls
+   56  ./configure --with-apxs=/usr/sbin/apxs
+   57  ;s
+   58  ls
+   59  cd native
+   60  ls
+   61  ./configure --with-apxs=/usr/sbin/apxs
+   62  make && make install
+   63  make
+   64  ls -al
+   65  cd /
+   66  make
+   67  ls
+   68  cd usr/local
+   69  ls
+   70  cd tomcat-connectors-1.2.42-src
+   71  ls
+   72  cd native
+   73  ls
+   74  ls -al
+   75  ./configure
+   76  rpm -qa | grep gcc
+   77  yum -y install gcc
+   78  ls
+   79  ./configure --with-apxs=/usr/sbin/apxs
+   80  make
+   81  make install
+   82  cd /
+   83  ls
+   84  ls
+   85  cd /
+   86  ls
+   87  cd etc
+   88  ls
+   89  cd httpd
+   90  ls
+   91  cd modules
+   92  ls
+   93  cd ..
+   94  ls
+   95  ls -al
+   96  cd /
+   97  ls
+   98  cd /etc/httpd
+   99  ls
+  100  cd conf
+  101  ls
+  102  mkdir include
+  103  ls
+  104  cd ../..
+  105  ls
+  106  cd httpd
+  107  ls
+  108  cd modules
+  109  ls
+  110  cp mod_jk.so mod_jk.so_bak
+  111  ls -al
+  112  ls
+  113  cp
+  114  cp --help
+  115  cp -a mod_jk.so mod_jk.so_bak
+  116  ls
+  117  mv --help
+  118  mv -b mod_jk.so_bak /etc/httpd/conf/include
+  119  ls
+  120  cd /etc/
+  121  cd httpd
+  122  ls
+  123  cd conf
+  124  ls
+  125  cd include
+  126  ls
+  127  rename --help
+  128  rename mod_jk.sh_bak mod_jk.so
+  129  ls
+  130  rename mod_jk.so_bak mod_jk.so
+  131  ls
+  132  rename mod_jk.so_bak mod_jk.so mod_jk.so_bak
+  133  ls
+  134  cd /
+  135  ls
+  136  cd usr
+  137  ls
+  138  cd local
+  139  ls
+  140  cd tomcat
+  141  ls
+  142  cd /
+  143  ls
+  144  cd data
+  145  ls
+  146  mkdir server
+  147  ls
+  148  ll
+  149  cd server
+  150  ls
+  151  ps -ef | grep mysql
+  152  ps -ef | grep maria
+  153  service mysql restart
+  154  service mysqld restart
+  155  ls
+  156  cd /etc/httpd
+  157  ls
+  158  cd conf
+  159  ls
+  160  cat httpd.conf
+  161  ls
+  162  cd workers.properties 
+  163  cat workers.properties 
+  164  ls
+  165  cd /
+  166  service httpd restart
+  167  ls
+  168  cd /etc/
+  169  ls
+  170  cd httpd
+  171  ls
+  172  cd logs
+  173  ls
+  174  service httpd restart
+  175  cd ..
+  176  ls
+  177  cd /
+  178  ls
+  179  cd data
+  180  ls
+  181  cd wasapp
+  182  ls
+  183  cd ..
+  184  cd /
+  185  ls
+  186  cd var
+  187  ls
+  188  cd log
+  189  ls
+  190  cd httpd
+  191  ls
+  192  cd /
+  193  ls
+  194  cd usr
+  195  ls
+  196  cd local
+  197  ls
+  198  cd etc/
+  199  ls
+  200  ll
+  201  cd ..
+  202  ls
+  203  service httpd restart
+  204  ;s
+  205  ls
+  206  cd /var/logs/httpd
+  207  cd /var/log/httpd
+  208  ls
+  209  tail -f access_log
+  210  tail -f error_log
+  211  ls
+  212  cd /
+  213  ls
+  214  cd home
+  215  ll
+  216  cd dangdang
+  217  ll
+  218  ls
+  219  cd logs
+  220  ll
+  221  tail -f catalina.out
+  222  history
+  223  find -name 'mysql*'
+  224  find / -name 'mysql*' -d
+  225  ls
+  226  cd /
+  227  ls
+  228  cd usr/bin
+  229  ls
+  230  cd mysql
+  231  ls
+  232  cd ..
+  233  cd usr/share/
+  234  ls
+  235  cd mysl
+  236  cd mysql
+  237  ls
+  238  cd mysql
+  239  ls
+  240  mysql -u root
+  241  mysql -u root@localhost
+  242  mysql -u root@localhost -p
+  243  mysql -u root -p
+  244  vi /etc/default/useradd
+  245  ./shutdown.sh
+  246  ./startup.sh
+  247  cd home
+  248  ls
+  249  cd logs
+  250  ls
+  251  tail -f catalina.out 
+  252  ./shutdown.sh
+  253  ll
+  254  cd ..
+  255  ll
+  256  ./shutdown.sh
+  257  ls
+  258  cd logs
+  259  ll
+  260  tail -f catalina.out 
+  261  ls
+  262  cd /
+  263  ls
+  264  cd home
+  265  ls
+  266  cd dangdang
+  267  ls
+  268  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/conf/ conf
+  269  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/logs/ logs
+  270  ln -s /data/wasapp/dangdang wasapp
+  271  ll
+  272  ls
+  273  ll
+  274  cd ..
+  275  ll
+  276  chown -R dangdang.dangdang dangdang/
+  277  ll
+  278  cd dangdang
+  279  ll
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd /
+  284  ls
+  285  cd boot
+  286  ls
+  287  cd ..
+  288  ls
+  289  cd etc/init.d
+  290  ls
+  291  ./httpd restart
+  292  service httpd restart
+  293  cd /
+  294  ls
+  295  cd etc/
+  296  ls
+  297  cd conf
+  298  cd httpd
+  299  ls
+  300  cd modules
+  301  ls
+  302  chcon -u system_u -r object_r -t ./mod_jk.so
+  303  chcon -u system_u -r object_r -t httpd_modules_t ./mod_jk.so
+  304  service httpd restart
+  305  chcon -u system_u -r object_r -t httpd_modules_t mod_jk.so
+  306  setenforce 0
+  307  service httpd restart
+  308  ls
+  309  ccd ..
+  310  cd ..
+  311  ls
+  312  cd /home
+  313  ls
+  314  cd dangdang
+  315  lks
+  316  ls
+  317  ./startup.sh
+  318  ll
+  319  chmod 755 startup.sh
+  320  chmod 755 shutdown.sh
+  321  ll
+  322  ./startup.sh
+  323  ll
+  324  ./startup.sh
+  325  cd ..
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd data
+  330  ls
+  331  cd server
+  332  ls
+  333  cd was
+  334  ls
+  335  cd apache-tomcat-7.0.37
+  336  ls
+  337  cd bin
+  338  ll
+  339  chmod 755 catalina.sh
+  340  chmod 755 configtest.sh
+  341  chmod 755 daemon.sh
+  342  chmod 755 digest.sh
+  343  chmod 755 setclasspath.sh
+  344  chmod 755 shutdown.sh
+  345  chmod 755 startup.sh
+  346  chmod 755 tool-wrapper.sh
+  347  chmod 755 version.sh
+  348  ll
+  349  cd /data/server/was
+  350  ll
+  351  cd apache-tomcat-7.0.37_instance/
+  352  ls
+  353  cd dangdang
+  354  ll
+  355  cd /home
+  356  ll
+  357  cd dangdang
+  358  ll
+  359  ./startup.sh
+  360  ps -ef | grep tomcat
+  361  ll
+  362  cd logs
+  363  ll
+  364  rm logs
+  365  ll
+  366  cd /home/
+  367  cd dangdang
+  368  ll
+  369  ls
+  370  ./shutdown.sh
+  371  ./startup.sh
+  372  ./shutdown.sh
+  373  ./startup.sh
+  374  ./shutdown.sh
+  375  ps -ef | grep tomcat
+  376  kill -9 45853 45885 45972
+  377  ps -ef | grep tomcat
+  378  ./shutdown.sh
+  379  ps -ef | grep tomcat
+  380  ./shutdown.sh
+  381  ps -ef | grep tomcat
+  382  kill -9 46101
+  383  ./startup.sh
+  384  usermod -d /home/dangdang dangdang
+  385  su dangdang
+  386  chown dangdang:dangdang dangdang
+  387  ll
+  388  cd dang
+  389  cd dangdang/
+  390  ls
+  391  ll
+  392  chown -R dangdang.dangdang dangdang
+  393  cd ..
+  394  chown -R dangdang.dangdang dangdang/
+  395  cd dangdang
+  396  ls
+  397  ll
+  398  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/conf/ conf
+  399  ll
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd dangdang
+  404  ls
+  405  ln -s /data/server/was/apache-tomcat-7.0.37_instance/dangdang/logs/ logs
+  406  ll
+  407  ln -s /data/wasapp/dangdang wasapp
+  408  ll
+  409  rm wasapp
+  410  ll
+  411  su dangdang
+  412  cd /
+  413  ls
+  414  cd /etc/
+  415  ls
+  416  cd httpd/
+  417  ls
+  418  cd conf
+  419  ls
+  420  vi workers.properties 
+  421  ls
+  422  cd httpd.conf
+  423  vi httpd.conf
+  424  cd /data/
+  425  ls
+  426  vi wasapp/
+  427  ls
+  428  cd wasapp/
+  429  ls
+  430  cd dangdang/
+  431  ls
+  432  vi index.html
+  433  vi index.jsp
+  434  ps -ef | grep tomcat
+  435  logout
+  436  iptables -nL
+  437  service iptables stop
+  438  iptables -nL
+  439  ls
+  440  ll
+  441  cd /etc/httpd/
+  442  ls
+  443  cd conf
+  444  ls
+  445  ll
+  446  vi workers.properties 
+  447  ls
+  448  vi httpd.conf
+  449  ls
+  450  cd include/
+  451  ls
+  452  vi mod_jk.conf 
+  453  service httpd restart
+  454  vi /etc/my.cnf
+  455  ls
+  456  service mysqld restart
+  457  ls
+  458  useradd koalnet
+  459  passwd koalnet
+  460  ls
+  461  ll
+  462  cd server/
+  463  ls
+  464  cd /
+  465  cd /data/server/was
+  466  ls
+  467  cd apache-tomcat-7.0.3_instance
+  468  cd apache-tomcat-7.0.37_instance/
+  469  ls
+  470  cp -a dangdang/ koalnet
+  471  chown -R koalnet.koalnet koalnet/
+  472  mysql -u root -p
+  473  service httpd restart
+  474  ps -ef | grep http
+  475  service httpd start
+  476  cd 
+  477  c /
+  478  cd /
+  479  ls
+  480  service httpd stop
+  481  service httpd start
+  482  ls
+  483  cd /etc/network
+  484  ls
+  485  ifconfig
+  486  ls
+  487  cd /
+  488  ls
+  489  cd etc
+  490  ls
+  491  cd tomcat
+  492  cd /
+  493  cd /home/tomcate
+  494  ls
+  495  cd /home/dangdang
+  496  ls
+  497  cd logs
+  498  ls
+  499  tail -f catalina.out
+  500  mysql -u mysql -p
+  501  ls
+  502  mysql -u mysql -p
+  503  mysql -u root -p
+  504  mysql
+  505  service mysqld restart
+  506  tail -f catalina.out
+  507  ls
+  508  cd /
+  509  ls
+  510  cd httpd
+  511  cd /etc/httpd
+  512  ls
+  513  cd logs
+  514  ls
+  515  tail -f error_log
+  516  tail -f access_log
+  517  ls
+  518  cd /
+  519  sls
+  520  ls
+  521  cd data
+  522  ls
+  523  cd server
+  524  ls
+  525  cd was
+  526  ls
+  527  cd apache-tomcat-7.0.37_instance/
+  528  ls
+  529  cd dangdang/
+  530  ls
+  531  cd conf
+  532  ls
+  533  vi server.xml
+  534  ls
+  535  service httpd start
+  536  service httpd restart
+  537  chcon -u system_u -r object_r -t httpd_modules_t /etc/httpd/modules/mod_jk.so
+  538  setenforce 0
+  539  service httpd restart
+  540  su - dangdang
+  541  setup
+  542  ls
+  543  cd /
+  544  ls
+  545  history
