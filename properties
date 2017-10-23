@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+	<bean name="propertiesService" class="egovframework.rte.fdl.property.impl.EgovPropertyServiceImpl" destroy-method="destroy">
+		<property name="properties">
+	        <map>
+	        
+	        	<!-- 페이징 관련 설정 -->
+	        	<entry key="pageSize" value="10"/>
+	        	<entry key="recordCountPerPage" value="10"/>
+	        	
+	        	<entry key="mid" value="INIpayTest"/>
+	        	<entry key="signKey" value="SU5JTElURV9UUklQTEVERVNfS0VZU1RS"/>
+	        	
+	        	
+	        	<entry key="mcmPreFix" value="kr/co/mcmall/"/>
+	        	<entry key="ddPreFix" value="net/dangdang/"/>
+	        	
+	        	<entry key="strId" value="ST00001"/>
+	        	
+	        	<entry key="gdsAttImgPath" value="/data/wasapp_upload_file/dangdang/gds"/>
+	        	
+	        	<entry key="cmtAttImgPath" value="/data/wasapp_upload_file/dangdang/thumb"/>
+	        	
+	        </map>
+		</property>
+	</bean>
+	
+</beans>	
